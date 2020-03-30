@@ -19,5 +19,5 @@
 
 
 
-4. [Advanced Data Science Capstone] (https://www.coursera.org/account/accomplishments/certificate/VKSX8GXS7YT2)
+4. [Advanced Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/VKSX8GXS7YT2)
 
